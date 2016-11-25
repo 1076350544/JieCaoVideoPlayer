@@ -11,7 +11,7 @@
 
 [英文文档](https://github.com/lipangit/JieCaoVideoPlayer)           [工作计划](https://github.com/lipangit/JieCaoVideoPlayer/projects/2)
 
-##主要特点
+##主要特点。。。。
 
 1. 视频全屏播放和浮层小窗播放
 2. 可以完全自定义UI
@@ -49,7 +49,7 @@ compile 'fm.jiecao:jiecaovideoplayer:4.8.3'
     android:layout_height="200dp"/>
 ```
 
-3.设置视频地址、缩略图地址、标题
+3.设置视频地址、缩略图地址、标题。
 ```java
 JCVideoPlayerStandard jcVideoPlayerStandard = (JCVideoPlayerStandard) findViewById(R.id.custom_videoplayer_standard);
 jcVideoPlayerStandard.setUp("http://2449.vod.myqcloud.com/2449_22ca37a6ea9011e5acaaf51d105342e3.f20.mp4"
