@@ -7,7 +7,7 @@
 <a href="https://android-arsenal.com/details/1/3269"><img src="https://img.shields.io/badge/Android%20Arsenal-jiecaovideoplayer-green.svg?style=true"></a>
 </p>
 
-####立志成为Android平台使用最广泛的视频播放控件  Q群:490442439 验证信息:jcvd
+####（> o <）立志成为Android平台使用最广泛的视频播放控件  Q群:490442439 验证信息:jcvd
 
 [英文文档](https://github.com/lipangit/JieCaoVideoPlayer)           [工作计划](https://github.com/lipangit/JieCaoVideoPlayer/projects/2)
 
